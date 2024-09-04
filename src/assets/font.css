@@ -1,0 +1,8 @@
+@font-face {
+    /* 重命名字体名 */
+    font-family: 'font';
+    /* 引入字体 */
+    src: url('阿里妈妈东方大楷.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
